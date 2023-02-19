@@ -1,9 +1,18 @@
-﻿// Задача 6: Напишите программу, которая на вход принимает число и выдаёт, является ли число чётным (делится ли оно на два без остатка).
+﻿// Задача 8: Напишите программу, которая на вход принимает число (N), а на выходе показывает все чётные числа от 1 до N.
 
-Console.WriteLine("enter a number");
+Console.Write("enter a number: ");
 int a = Convert.ToInt32(Console.ReadLine());
 
-if (a % 2 == 0)
-{Console.WriteLine($"{a} is even number");}
+int evenNum = 2;
+
+if (a > 1)
+{
+    while (evenNum <= a)
+    {
+        Console.Write(evenNum + " ");
+        evenNum = evenNum + 2;
+    }
+}
 else
-Console.WriteLine($"{a} is odd number");
+Console.WriteLine($"{a} <= 1");
+

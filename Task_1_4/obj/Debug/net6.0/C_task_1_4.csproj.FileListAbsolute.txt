@@ -1,0 +1,15 @@
+/home/mikhail/Documents/C_lesson/Task_1_4/obj/Debug/net6.0/C_task_1_4.csproj.AssemblyReference.cache
+/home/mikhail/Documents/C_lesson/Task_1_4/obj/Debug/net6.0/C_task_1_4.GeneratedMSBuildEditorConfig.editorconfig
+/home/mikhail/Documents/C_lesson/Task_1_4/obj/Debug/net6.0/C_task_1_4.AssemblyInfoInputs.cache
+/home/mikhail/Documents/C_lesson/Task_1_4/obj/Debug/net6.0/C_task_1_4.AssemblyInfo.cs
+/home/mikhail/Documents/C_lesson/Task_1_4/obj/Debug/net6.0/C_task_1_4.csproj.CoreCompileInputs.cache
+/home/mikhail/Documents/C_lesson/Task_1_4/bin/Debug/net6.0/C_task_1_4
+/home/mikhail/Documents/C_lesson/Task_1_4/bin/Debug/net6.0/C_task_1_4.deps.json
+/home/mikhail/Documents/C_lesson/Task_1_4/bin/Debug/net6.0/C_task_1_4.runtimeconfig.json
+/home/mikhail/Documents/C_lesson/Task_1_4/bin/Debug/net6.0/C_task_1_4.dll
+/home/mikhail/Documents/C_lesson/Task_1_4/bin/Debug/net6.0/ref/C_task_1_4.dll
+/home/mikhail/Documents/C_lesson/Task_1_4/bin/Debug/net6.0/C_task_1_4.pdb
+/home/mikhail/Documents/C_lesson/Task_1_4/obj/Debug/net6.0/C_task_1_4.dll
+/home/mikhail/Documents/C_lesson/Task_1_4/obj/Debug/net6.0/ref/C_task_1_4.dll
+/home/mikhail/Documents/C_lesson/Task_1_4/obj/Debug/net6.0/C_task_1_4.pdb
+/home/mikhail/Documents/C_lesson/Task_1_4/obj/Debug/net6.0/C_task_1_4.genruntimeconfig.cache

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/mikhail/Documents/C_lesson/Task_1_3/C_task_1_3.csproj",
-      "projectName": "C_task_1_3",
-      "projectPath": "/home/mikhail/Documents/C_lesson/Task_1_3/C_task_1_3.csproj",
+      "projectUniqueName": "/home/mikhail/Documents/C_lesson/Task_1_4/C_task_1_4.csproj",
+      "projectName": "C_task_1_4",
+      "projectPath": "/home/mikhail/Documents/C_lesson/Task_1_4/C_task_1_4.csproj",
       "packagesPath": "/home/mikhail/.nuget/packages/",
-      "outputPath": "/home/mikhail/Documents/C_lesson/Task_1_3/obj/",
+      "outputPath": "/home/mikhail/Documents/C_lesson/Task_1_4/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/mikhail/.nuget/NuGet/NuGet.Config"
